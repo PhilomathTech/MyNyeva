@@ -1,4 +1,4 @@
-- 👋 ##Hi, I’m Simphiwe Ngwenya
+- ## 👋 Hi, I’m Simphiwe Ngwenya
 - 👀 I’m interested in **Data Science | Data Analyst | Full Stack Developer**
 - 🌱 I’m currently learning BSc in Mathematics and Applied Mathematics 
 - 💞️ I’m looking to collaborate on a project 
