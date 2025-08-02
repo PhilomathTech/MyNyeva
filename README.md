@@ -1,7 +1,7 @@
-- ## 👋 Hi, I’m Simphiwe Ngwenya
+- ## 👋 Hi, I’m Simphiwe Rudolph Ngwenya
 - 👀 I’m interested in **Data Science | Data Analyst | Full Stack Developer**
 - 🌱 I’m currently learning BSc in Mathematics and Applied Mathematics 
-- 💞️ I’m looking to collaborate on a project 
+- 💞️ I’m looking to collaborate on a project either individually or as a team player 
 - 📫 How to reach me, you can contact me on 0608201991 both phone call and WhatsApp | Email: simphiwengwenya66@gmail.com
 - 😄 Pronouns: Philomath & Math Wizard
 - ⚡ Fun fact: **If you think Politics are difficult you should try academia**
